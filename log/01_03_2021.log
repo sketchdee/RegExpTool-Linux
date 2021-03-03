@@ -1,0 +1,275 @@
+******************************System Enviroment******************************
+* PATH: /home/sketchdee/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/opt/cuda/bin:/opt/cuda/integration/nsight-compute:/opt/cuda/integration/nsight-systems:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/var/lib/snapd/snap/bin:/home/sketchdee/.bin
+* XAUTHORITY: /home/sketchdee/.Xauthority
+* XMODIFIERS: @im=fcitx
+* XDG_DATA_DIRS: /home/sketchdee/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+* GTK_IM_MODULE: fcitx
+* MOTD_SHOWN: pam
+* DBUS_SESSION_BUS_ADDRESS: unix:path=/run/user/1000/bus
+* XDG_CURRENT_DESKTOP: KDE
+* QT_AUTO_SCREEN_SCALE_FACTOR: 0
+* MAIL: /var/spool/mail/sketchdee
+* QT_LINUX_ACCESSIBILITY_ALWAYS_ON: 1
+* SESSION_MANAGER: local/sketchdee-vostro145480:@/tmp/.ICE-unix/1109,unix/sketchdee-vostro145480:/tmp/.ICE-unix/1109
+* LOGNAME: sketchdee
+* PAM_KWALLET5_LOGIN: /run/user/1000/kwallet5.socket
+* PWD: /home/sketchdee/java-workspace/RegExpTool
+* SDL_IM_MODULE: fcitx
+* XCURSOR_THEME: breeze_cursors
+* KDE_SESSION_VERSION: 5
+* SHELL: /bin/bash
+* OLDPWD: /home/sketchdee/idea-IU-203.7148.57/bin
+* KDE_FULL_SESSION: true
+* GTK_MODULES: canberra-gtk-module
+* XDG_SESSION_PATH: /org/freedesktop/DisplayManager/Session1
+* LS_COLORS: rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=01;05;37;41:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.pdf=00;32:*.ps=00;32:*.txt=00;32:*.patch=00;32:*.diff=00;32:*.log=00;32:*.tex=00;32:*.doc=00;32:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.axa=00;36:*.oga=00;36:*.spx=00;36:*.xspf=00;36:
+* XDG_SESSION_DESKTOP: KDE
+* SHLVL: 2
+* KDE_APPLICATIONS_AS_SCOPE: 1
+* BROWSER: /usr/bin/firefox
+* QT_IM_MODULE: fcitx
+* TERM: xterm-256color
+* KDE_SESSION_UID: 1000
+* XDG_SEAT_PATH: /org/freedesktop/DisplayManager/Seat0
+* LANG: en_US.UTF-8
+* XDG_SESSION_ID: 2
+* XDG_SESSION_TYPE: x11
+* DISPLAY: :0
+* GTK_RC_FILES: /etc/gtk/gtkrc:/home/sketchdee/.gtkrc:/home/sketchdee/.config/gtkrc
+* _: /usr/bin/java
+* XDG_SESSION_CLASS: user
+* XCURSOR_SIZE: 24
+* GTK3_MODULES: xapp-gtk3-module
+* CUDA_PATH: /opt/cuda
+* DESKTOP_SESSION: /usr/share/xsessions/plasma
+* USER: sketchdee
+* GTK2_RC_FILES: /etc/gtk-2.0/gtkrc:/home/sketchdee/.gtkrc-2.0:/home/sketchdee/.config/gtkrc-2.0
+* DESKTOP_STARTUP_ID: sketchdee-vostro145480;1614589857;847357;1122_TIME157762
+* TERMINAL_EMULATOR: JetBrains-JediTerm
+* XDG_SEAT: seat0
+* EDITOR: /usr/bin/nano
+* XDG_RUNTIME_DIR: /run/user/1000
+* XDG_VTNR: 1
+* HOME: /home/sketchdee
+*****************************************************************************
+2021-03-01 04:28:46, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-03-01 04:28:46, Info               RegExpTool   ApplySetting: ApplySetting
+2021-03-01 04:28:46, Info               RegExpTool   initialize: initialize programe
+2021-03-01 04:28:58, Info               RegExpTool   lambda$start$0: RegexpTool closed.
+2021-03-01 04:29:16, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-03-01 04:29:16, Info               RegExpTool   ApplySetting: ApplySetting
+2021-03-01 04:29:16, Info               RegExpTool   initialize: initialize programe
+2021-03-01 04:30:02, Info               RegExpTool   lambda$start$0: RegexpTool closed.
+2021-03-01 05:07:04, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-03-01 05:07:04, Info               RegExpTool   ApplySetting: ApplySetting
+2021-03-01 05:07:04, Info               RegExpTool   initialize: initialize programe
+2021-03-01 05:07:08, Info               RegExpTool   lambda$start$0: RegexpTool closed.
+2021-03-01 05:10:42, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-03-01 05:10:42, Info               RegExpTool   ApplySetting: ApplySetting
+2021-03-01 05:10:42, Info               RegExpTool   initialize: initialize programe
+2021-03-01 05:10:48, Info               RegExpTool   MenuEditRegexpHistoryOnAcion: Edit History file.
+2021-03-01 05:10:55, Info               RegExpTool   MenuEditMypattensOnAction: Edit mypatterns file.
+2021-03-01 05:10:58, Info               RegExpTool   MenuEditSettingsOnAction: Edit Setting file.
+2021-03-01 05:11:40, Info               RegExpTool   lambda$start$0: RegexpTool closed.
+2021-03-01 08:26:25, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-03-01 08:26:25, Info               RegExpTool   ApplySetting: ApplySetting
+2021-03-01 08:26:25, Info               RegExpTool   initialize: initialize programe
+2021-03-01 08:27:12, Info               RegExpTool   FromfileButtonOnAction: show open dialog
+2021-03-01 08:27:34, Error               RegExpTool   CheckButtonOnAction: class java.util.regex.PatternSyntaxException Unexpected internal error
+2021-03-01 08:27:35, Info               RegExpTool   CheckButtonOnAction: Regexp is \w
+2021-03-01 08:27:36, Info               RegExpTool   CheckButtonOnAction: Regexp is \w*
+2021-03-01 08:27:43, Info               RegExpTool   CheckButtonOnAction: Regexp is \w
+2021-03-01 08:27:45, Error               RegExpTool   CheckButtonOnAction: class java.util.regex.PatternSyntaxException Unexpected internal error
+2021-03-01 08:27:45, Info               RegExpTool   CheckButtonOnAction: Regexp is 
+2021-03-01 08:27:47, Error               RegExpTool   CheckButtonOnAction: class java.util.regex.PatternSyntaxException Unexpected internal error
+2021-03-01 08:27:50, Info               RegExpTool   CheckButtonOnAction: Regexp is \S
+2021-03-01 08:27:51, Info               RegExpTool   CheckButtonOnAction: Regexp is \S*
+2021-03-01 08:27:54, Info               RegExpTool   CheckButtonOnAction: Regexp is \S
+2021-03-01 08:27:55, Info               RegExpTool   CheckButtonOnAction: Regexp is \S*
+2021-03-01 08:27:57, Info               RegExpTool   CheckButtonOnAction: Regexp is \S*?
+2021-03-01 08:28:42, Info               RegExpTool   lambda$start$0: RegexpTool closed.
+2021-03-01 09:33:21, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-03-01 09:33:21, Info               RegExpTool   ApplySetting: ApplySetting
+2021-03-01 09:33:21, Info               RegExpTool   initialize: initialize programe
+2021-03-01 09:33:30, Error               RegExpTool   CheckButtonOnAction: class java.util.regex.PatternSyntaxException Unexpected internal error
+2021-03-01 09:33:31, Info               RegExpTool   CheckButtonOnAction: Regexp is \w
+2021-03-01 09:33:32, Info               RegExpTool   CheckButtonOnAction: Regexp is \w*
+2021-03-01 09:33:36, Info               RegExpTool   lambda$start$0: RegexpTool closed.
+2021-03-01 09:41:33, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-03-01 09:41:33, Info               RegExpTool   ApplySetting: ApplySetting
+2021-03-01 09:41:33, Info               RegExpTool   initialize: initialize programe
+2021-03-01 09:41:56, Info               RegExpTool   MenuEditRegexpHistoryOnAcion: Edit History file.
+2021-03-01 09:42:13, Info               RegExpTool   lambda$start$0: RegexpTool closed.
+2021-03-01 09:42:52, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-03-01 09:42:53, Info               RegExpTool   ApplySetting: ApplySetting
+2021-03-01 09:42:53, Info               RegExpTool   initialize: initialize programe
+2021-03-01 09:43:14, Info               RegExpTool   lambda$start$0: RegexpTool closed.
+2021-03-01 09:43:22, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-03-01 09:43:22, Info               RegExpTool   ApplySetting: ApplySetting
+2021-03-01 09:43:22, Info               RegExpTool   initialize: initialize programe
+2021-03-01 09:43:35, Info               RegExpTool   lambda$start$0: RegexpTool closed.
+2021-03-01 09:44:43, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-03-01 09:44:43, Info               RegExpTool   ApplySetting: ApplySetting
+2021-03-01 09:44:43, Info               RegExpTool   initialize: initialize programe
+2021-03-01 09:48:25, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-03-01 09:48:25, Info               RegExpTool   ApplySetting: ApplySetting
+2021-03-01 09:48:25, Info               RegExpTool   initialize: initialize programe
+2021-03-01 09:48:46, Info               RegExpTool   lambda$start$0: RegexpTool closed.
+2021-03-01 09:49:18, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-03-01 09:49:18, Info               RegExpTool   ApplySetting: ApplySetting
+2021-03-01 09:49:18, Info               RegExpTool   initialize: initialize programe
+2021-03-01 10:10:45, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-03-01 10:10:45, Info               RegExpTool   ApplySetting: ApplySetting
+2021-03-01 10:10:45, Info               RegExpTool   initialize: initialize programe
+2021-03-01 10:10:57, Info               RegExpTool   lambda$start$0: RegexpTool closed.
+2021-03-01 10:11:22, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-03-01 10:11:22, Info               RegExpTool   ApplySetting: ApplySetting
+2021-03-01 10:11:22, Info               RegExpTool   initialize: initialize programe
+2021-03-01 10:11:38, Info               RegExpTool   lambda$start$0: RegexpTool closed.
+2021-03-01 10:11:59, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-03-01 10:11:59, Info               RegExpTool   ApplySetting: ApplySetting
+2021-03-01 10:11:59, Info               RegExpTool   initialize: initialize programe
+2021-03-01 10:12:03, Info               RegExpTool   lambda$start$0: RegexpTool closed.
+2021-03-01 10:15:07, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-03-01 10:15:07, Info               RegExpTool   ApplySetting: ApplySetting
+2021-03-01 10:15:07, Info               RegExpTool   initialize: initialize programe
+2021-03-01 10:15:13, Info               RegExpTool   lambda$start$0: RegexpTool closed.
+2021-03-01 10:15:46, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-03-01 10:15:46, Info               RegExpTool   ApplySetting: ApplySetting
+2021-03-01 10:15:46, Info               RegExpTool   initialize: initialize programe
+2021-03-01 10:15:51, Info               RegExpTool   lambda$start$0: RegexpTool closed.
+2021-03-01 10:19:16, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-03-01 10:19:16, Info               RegExpTool   ApplySetting: ApplySetting
+2021-03-01 10:19:16, Info               RegExpTool   initialize: initialize programe
+2021-03-01 10:19:24, Info               RegExpTool   lambda$start$0: RegexpTool closed.
+2021-03-01 10:19:46, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-03-01 10:19:47, Info               RegExpTool   ApplySetting: ApplySetting
+2021-03-01 10:19:47, Info               RegExpTool   initialize: initialize programe
+2021-03-01 10:19:50, Info               RegExpTool   lambda$start$0: RegexpTool closed.
+2021-03-01 10:19:54, Info               RegExpTool   lambda$start$0: RegexpTool closed.
+2021-03-01 10:19:54, Info               RegExpTool   lambda$start$0: RegexpTool closed.
+2021-03-01 10:22:06, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-03-01 10:22:07, Info               RegExpTool   ApplySetting: ApplySetting
+2021-03-01 10:22:07, Info               RegExpTool   initialize: initialize programe
+2021-03-01 08:56:56, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-03-01 08:56:56, Info               RegExpTool   ApplySetting: ApplySetting
+2021-03-01 08:56:56, Info               RegExpTool   initialize: initialize programe
+2021-03-01 08:57:47, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-03-01 08:57:47, Info               RegExpTool   ApplySetting: ApplySetting
+2021-03-01 08:57:47, Info               RegExpTool   initialize: initialize programe
+2021-03-01 08:57:51, Info               RegExpTool   lambda$start$0: RegexpTool closed.
+2021-03-01 08:58:14, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-03-01 08:58:14, Info               RegExpTool   ApplySetting: ApplySetting
+2021-03-01 08:58:14, Info               RegExpTool   initialize: initialize programe
+2021-03-01 08:59:04, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-03-01 08:59:04, Info               RegExpTool   ApplySetting: ApplySetting
+2021-03-01 08:59:04, Info               RegExpTool   initialize: initialize programe
+2021-03-01 08:59:55, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-03-01 08:59:56, Info               RegExpTool   ApplySetting: ApplySetting
+2021-03-01 08:59:56, Info               RegExpTool   initialize: initialize programe
+2021-03-01 09:00:03, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-03-01 09:00:04, Info               RegExpTool   ApplySetting: ApplySetting
+2021-03-01 09:00:04, Info               RegExpTool   initialize: initialize programe
+2021-03-01 09:00:04, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-03-01 09:00:05, Info               RegExpTool   ApplySetting: ApplySetting
+2021-03-01 09:00:05, Info               RegExpTool   initialize: initialize programe
+2021-03-01 09:00:11, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-03-01 09:00:12, Info               RegExpTool   ApplySetting: ApplySetting
+2021-03-01 09:00:12, Info               RegExpTool   initialize: initialize programe
+2021-03-01 09:00:20, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-03-01 09:00:21, Info               RegExpTool   ApplySetting: ApplySetting
+2021-03-01 09:00:21, Info               RegExpTool   initialize: initialize programe
+2021-03-01 09:00:48, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-03-01 09:00:48, Info               RegExpTool   ApplySetting: ApplySetting
+2021-03-01 09:00:48, Info               RegExpTool   initialize: initialize programe
+2021-03-01 09:01:01, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-03-01 09:01:01, Info               RegExpTool   ApplySetting: ApplySetting
+2021-03-01 09:01:01, Info               RegExpTool   initialize: initialize programe
+2021-03-01 09:01:17, Info               RegExpTool   lambda$start$0: RegexpTool closed.
+2021-03-01 09:02:01, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-03-01 09:02:01, Info               RegExpTool   ApplySetting: ApplySetting
+2021-03-01 09:02:01, Info               RegExpTool   initialize: initialize programe
+2021-03-01 09:03:10, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-03-01 09:03:10, Info               RegExpTool   ApplySetting: ApplySetting
+2021-03-01 09:03:10, Info               RegExpTool   initialize: initialize programe
+2021-03-01 09:03:15, Info               RegExpTool   lambda$start$0: RegexpTool closed.
+2021-03-01 09:03:36, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-03-01 09:03:36, Info               RegExpTool   ApplySetting: ApplySetting
+2021-03-01 09:03:36, Info               RegExpTool   initialize: initialize programe
+2021-03-01 09:03:40, Info               RegExpTool   lambda$start$0: RegexpTool closed.
+2021-03-01 09:05:17, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-03-01 09:05:17, Info               RegExpTool   ApplySetting: ApplySetting
+2021-03-01 09:05:17, Info               RegExpTool   initialize: initialize programe
+2021-03-01 09:06:47, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-03-01 09:06:48, Info               RegExpTool   ApplySetting: ApplySetting
+2021-03-01 09:06:48, Info               RegExpTool   initialize: initialize programe
+2021-03-01 09:06:54, Info               RegExpTool   lambda$start$0: RegexpTool closed.
+2021-03-01 09:07:16, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-03-01 09:07:16, Info               RegExpTool   ApplySetting: ApplySetting
+2021-03-01 09:07:16, Info               RegExpTool   initialize: initialize programe
+2021-03-01 09:07:20, Info               RegExpTool   lambda$start$0: RegexpTool closed.
+2021-03-01 09:08:53, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-03-01 09:08:53, Info               RegExpTool   ApplySetting: ApplySetting
+2021-03-01 09:08:53, Info               RegExpTool   initialize: initialize programe
+2021-03-01 09:09:00, Info               RegExpTool   lambda$start$0: RegexpTool closed.
+2021-03-01 09:09:23, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-03-01 09:09:23, Info               RegExpTool   ApplySetting: ApplySetting
+2021-03-01 09:09:23, Info               RegExpTool   initialize: initialize programe
+2021-03-01 09:09:27, Info               RegExpTool   lambda$start$0: RegexpTool closed.
+2021-03-01 09:15:32, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-03-01 09:15:32, Info               RegExpTool   ApplySetting: ApplySetting
+2021-03-01 09:15:32, Info               RegExpTool   initialize: initialize programe
+2021-03-01 09:15:36, Info               RegExpTool   lambda$start$0: RegexpTool closed.
+2021-03-01 09:20:06, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-03-01 09:20:07, Info               RegExpTool   ApplySetting: ApplySetting
+2021-03-01 09:20:07, Info               RegExpTool   initialize: initialize programe
+2021-03-01 09:20:11, Info               RegExpTool   lambda$start$0: RegexpTool closed.
+2021-03-01 09:20:27, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-03-01 09:20:27, Info               RegExpTool   ApplySetting: ApplySetting
+2021-03-01 09:20:27, Info               RegExpTool   initialize: initialize programe
+2021-03-01 09:20:32, Info               RegExpTool   lambda$start$0: RegexpTool closed.
+2021-03-01 09:20:58, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-03-01 09:20:58, Info               RegExpTool   ApplySetting: ApplySetting
+2021-03-01 09:20:58, Info               RegExpTool   initialize: initialize programe
+2021-03-01 09:21:08, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-03-01 09:21:09, Info               RegExpTool   ApplySetting: ApplySetting
+2021-03-01 09:21:09, Info               RegExpTool   initialize: initialize programe
+2021-03-01 09:21:33, Info               RegExpTool   lambda$start$0: RegexpTool closed.
+2021-03-01 09:25:36, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-03-01 09:25:36, Info               RegExpTool   ApplySetting: ApplySetting
+2021-03-01 09:25:36, Info               RegExpTool   initialize: initialize programe
+2021-03-01 09:25:57, Info               RegExpTool   lambda$start$0: RegexpTool closed.
+2021-03-01 09:39:59, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-03-01 09:39:59, Info               RegExpTool   ApplySetting: ApplySetting
+2021-03-01 09:39:59, Info               RegExpTool   initialize: initialize programe
+2021-03-01 09:40:04, Info               RegExpTool   MenuEditRegexpHistoryOnAcion: Edit History file.
+2021-03-01 09:40:20, Info               RegExpTool   MenuEditRegexpHistoryOnAcion: Edit History file.
+2021-03-01 09:40:52, Info               RegExpTool   lambda$start$0: RegexpTool closed.
+2021-03-01 09:43:38, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-03-01 09:43:38, Info               RegExpTool   ApplySetting: ApplySetting
+2021-03-01 09:43:38, Info               RegExpTool   initialize: initialize programe
+2021-03-01 09:43:46, Info               RegExpTool   MenuEditRegexpHistoryOnAcion: Edit History file.
+2021-03-01 09:50:27, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-03-01 09:50:27, Info               RegExpTool   ApplySetting: ApplySetting
+2021-03-01 09:50:27, Info               RegExpTool   initialize: initialize programe
+2021-03-01 09:50:34, Info               RegExpTool   MenuEditSettingsOnAction: Edit Setting file.
+2021-03-01 09:50:42, Info               RegExpTool   MenuEditSettingsOnAction: Edit Setting file.
+2021-03-01 09:50:46, Info               RegExpTool   MenuEditMypattensOnAction: Edit mypatterns file.
+2021-03-01 09:50:59, Info               RegExpTool   MenuEditSettingsOnAction: Edit Setting file.
+2021-03-01 09:54:25, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-03-01 09:54:25, Info               RegExpTool   ApplySetting: ApplySetting
+2021-03-01 09:54:25, Info               RegExpTool   initialize: initialize programe
+2021-03-01 09:54:30, Info               RegExpTool   MenuEditRegexpHistoryOnAcion: Edit History file.
+2021-03-01 10:04:25, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-03-01 10:04:25, Info               RegExpTool   ApplySetting: ApplySetting
+2021-03-01 10:04:25, Info               RegExpTool   initialize: initialize programe
+2021-03-01 10:04:30, Info               RegExpTool   MenuEditSettingsOnAction: Edit Setting file.
+2021-03-01 10:04:35, Info               RegExpTool   MenuEditSettingsOnAction: Edit Setting file.
+2021-03-01 10:04:40, Info               RegExpTool   MenuEditRegexpHistoryOnAcion: Edit History file.
+2021-03-01 10:05:15, Info               RegExpTool   lambda$start$0: RegexpTool closed.
+2021-03-01 10:05:26, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-03-01 10:05:26, Info               RegExpTool   ApplySetting: ApplySetting
+2021-03-01 10:05:26, Info               RegExpTool   initialize: initialize programe
+2021-03-01 10:05:31, Info               RegExpTool   MenuEditSettingsOnAction: Edit Setting file.
+2021-03-01 10:05:36, Info               RegExpTool   MenuEditRegexpHistoryOnAcion: Edit History file.
+2021-03-01 10:05:41, Info               RegExpTool   lambda$start$0: RegexpTool closed.

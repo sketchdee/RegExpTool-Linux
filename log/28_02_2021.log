@@ -1,0 +1,189 @@
+******************************System Enviroment******************************
+* PATH: /home/sketchdee/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/opt/cuda/bin:/opt/cuda/integration/nsight-compute:/opt/cuda/integration/nsight-systems:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/var/lib/snapd/snap/bin:/home/sketchdee/.bin
+* KDE_APPLICATIONS_AS_SCOPE: 1
+* XAUTHORITY: /home/sketchdee/.Xauthority
+* BROWSER: /usr/bin/firefox
+* XMODIFIERS: @im=fcitx
+* XDG_DATA_DIRS: /home/sketchdee/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+* QT_IM_MODULE: fcitx
+* GTK_IM_MODULE: fcitx
+* KDE_SESSION_UID: 1000
+* MOTD_SHOWN: pam
+* LANG: en_US.UTF-8
+* XDG_SEAT_PATH: /org/freedesktop/DisplayManager/Seat0
+* DBUS_SESSION_BUS_ADDRESS: unix:path=/run/user/1000/bus
+* XDG_SESSION_TYPE: x11
+* XDG_SESSION_ID: 2
+* XDG_CURRENT_DESKTOP: KDE
+* DISPLAY: :0
+* QT_AUTO_SCREEN_SCALE_FACTOR: 0
+* MAIL: /var/spool/mail/sketchdee
+* GTK_RC_FILES: /etc/gtk/gtkrc:/home/sketchdee/.gtkrc:/home/sketchdee/.config/gtkrc
+* SESSION_MANAGER: local/sketchdee-vostro145480:@/tmp/.ICE-unix/1190,unix/sketchdee-vostro145480:/tmp/.ICE-unix/1190
+* QT_LINUX_ACCESSIBILITY_ALWAYS_ON: 1
+* LOGNAME: sketchdee
+* PWD: /home/sketchdee/java-workspace/RegExpTool
+* PAM_KWALLET5_LOGIN: /run/user/1000/kwallet5.socket
+* SDL_IM_MODULE: fcitx
+* XDG_SESSION_CLASS: user
+* _: /home/sketchdee/idea-IU-203.7148.57/jbr/bin/java
+* XCURSOR_THEME: breeze_cursors
+* KDE_SESSION_VERSION: 5
+* SHELL: /bin/bash
+* XCURSOR_SIZE: 24
+* GTK3_MODULES: xapp-gtk3-module
+* DESKTOP_SESSION: /usr/share/xsessions/plasma
+* CUDA_PATH: /opt/cuda
+* OLDPWD: /home/sketchdee/idea-IU-203.7148.57/bin
+* USER: sketchdee
+* GTK2_RC_FILES: /etc/gtk-2.0/gtkrc:/home/sketchdee/.gtkrc-2.0:/home/sketchdee/.config/gtkrc-2.0
+* KDE_FULL_SESSION: true
+* XDG_SEAT: seat0
+* GTK_MODULES: canberra-gtk-module
+* EDITOR: /usr/bin/nano
+* XDG_SESSION_PATH: /org/freedesktop/DisplayManager/Session1
+* XDG_VTNR: 1
+* XDG_RUNTIME_DIR: /run/user/1000
+* XDG_SESSION_DESKTOP: KDE
+* HOME: /home/sketchdee
+* SHLVL: 1
+*****************************************************************************
+2021-02-28 08:33:34, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-02-28 08:33:34, Info               RegExpTool   ApplySetting: ApplySetting
+2021-02-28 08:33:34, Info               RegExpTool   initialize: initialize programe
+2021-02-28 08:33:41, Info               RegExpTool   MenuEditRegexpHistoryOnAcion: Edit History file.
+2021-02-28 08:33:45, Info               RegExpTool   MenuEditMypattensOnAction: Edit mypatterns file.
+2021-02-28 08:33:51, Info               RegExpTool   MenuEditSettingsOnAction: Edit Setting file.
+2021-02-28 08:34:46, Info               RegExpTool   FromfileButtonOnAction: show open dialog
+2021-02-28 08:34:46, Info               RegExpTool   FromfileButtonOnAction: get text from /home/sketchdee/idea-IC-203.6682.168/build.txt
+2021-02-28 08:34:50, Error               RegExpTool   FromurlButtonOnAction: no protocol: 
+2021-02-28 08:34:54, Error               RegExpTool   FromurlButtonOnAction: no protocol: 
+2021-02-28 08:35:17, Error               RegExpTool   FromurlButtonOnAction: no protocol: 
+2021-02-28 08:35:20, Error               RegExpTool   FromurlButtonOnAction: no protocol: 
+2021-02-28 08:35:21, Error               RegExpTool   FromurlButtonOnAction: no protocol: 
+2021-02-28 08:36:25, Error               RegExpTool   CheckButtonOnAction: class java.util.regex.PatternSyntaxException Unexpected internal error
+2021-02-28 08:37:29, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-02-28 08:37:30, Info               RegExpTool   ApplySetting: ApplySetting
+2021-02-28 08:37:30, Info               RegExpTool   initialize: initialize programe
+2021-02-28 08:37:38, Info               RegExpTool   FromfileButtonOnAction: show open dialog
+2021-02-28 08:37:38, Info               RegExpTool   FromfileButtonOnAction: get text from /home/sketchdee/java-workspace/RegExpTool/RegExpTool.iml
+2021-02-28 08:37:40, Error               RegExpTool   CheckButtonOnAction: class java.util.regex.PatternSyntaxException Unexpected internal error
+2021-02-28 08:38:47, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-02-28 08:38:47, Info               RegExpTool   ApplySetting: ApplySetting
+2021-02-28 08:38:47, Info               RegExpTool   initialize: initialize programe
+2021-02-28 08:38:58, Error               RegExpTool   CheckButtonOnAction: class java.util.regex.PatternSyntaxException Unexpected internal error
+2021-02-28 08:39:00, Info               RegExpTool   CheckButtonOnAction: Regexp is \s
+2021-02-28 08:39:03, Error               RegExpTool   CheckButtonOnAction: class java.util.regex.PatternSyntaxException Unexpected internal error
+2021-02-28 08:39:03, Info               RegExpTool   CheckButtonOnAction: Regexp is \S
+2021-02-28 08:39:05, Info               RegExpTool   CheckButtonOnAction: Regexp is \S*
+2021-02-28 08:39:06, Info               RegExpTool   CheckButtonOnAction: Regexp is \S
+2021-02-28 08:39:06, Error               RegExpTool   CheckButtonOnAction: class java.util.regex.PatternSyntaxException Unexpected internal error
+2021-02-28 08:39:07, Info               RegExpTool   CheckButtonOnAction: Regexp is 
+2021-02-28 08:39:07, Error               RegExpTool   CheckButtonOnAction: class java.util.regex.PatternSyntaxException Unexpected internal error
+2021-02-28 08:39:09, Info               RegExpTool   CheckButtonOnAction: Regexp is \w
+2021-02-28 08:39:10, Error               RegExpTool   CheckButtonOnAction: class java.util.regex.PatternSyntaxException Unexpected internal error
+2021-02-28 08:39:11, Info               RegExpTool   CheckButtonOnAction: Regexp is 
+2021-02-28 08:39:11, Error               RegExpTool   CheckButtonOnAction: class java.util.regex.PatternSyntaxException Unexpected internal error
+2021-02-28 08:39:12, Info               RegExpTool   CheckButtonOnAction: Regexp is \w
+2021-02-28 08:39:14, Info               RegExpTool   CheckButtonOnAction: Regexp is \w8
+2021-02-28 08:39:14, Info               RegExpTool   CheckButtonOnAction: Regexp is \w
+2021-02-28 08:39:15, Info               RegExpTool   CheckButtonOnAction: Regexp is \w*
+2021-02-28 08:39:16, Info               RegExpTool   CheckButtonOnAction: Regexp is \w
+2021-02-28 08:39:16, Error               RegExpTool   CheckButtonOnAction: class java.util.regex.PatternSyntaxException Unexpected internal error
+2021-02-28 08:39:16, Info               RegExpTool   CheckButtonOnAction: Regexp is 
+2021-02-28 08:39:16, Info               RegExpTool   CheckButtonOnAction: Regexp is 
+2021-02-28 08:39:18, Error               RegExpTool   CheckButtonOnAction: class java.util.regex.PatternSyntaxException Unexpected internal error
+2021-02-28 08:39:18, Info               RegExpTool   CheckButtonOnAction: Regexp is \w
+2021-02-28 08:39:19, Error               RegExpTool   CheckButtonOnAction: class java.util.regex.PatternSyntaxException Unexpected internal error
+2021-02-28 08:39:19, Info               RegExpTool   CheckButtonOnAction: Regexp is 
+2021-02-28 08:39:19, Info               RegExpTool   CheckButtonOnAction: Regexp is 
+2021-02-28 08:39:20, Error               RegExpTool   CheckButtonOnAction: class java.util.regex.PatternSyntaxException Unexpected internal error
+2021-02-28 08:39:20, Info               RegExpTool   CheckButtonOnAction: Regexp is \w
+2021-02-28 08:39:21, Info               RegExpTool   CheckButtonOnAction: Regexp is \w*
+2021-02-28 08:39:23, Info               RegExpTool   CheckButtonOnAction: Regexp is \w
+2021-02-28 08:39:23, Error               RegExpTool   CheckButtonOnAction: class java.util.regex.PatternSyntaxException Unexpected internal error
+2021-02-28 08:39:23, Info               RegExpTool   CheckButtonOnAction: Regexp is 
+2021-02-28 08:39:23, Info               RegExpTool   CheckButtonOnAction: Regexp is 
+2021-02-28 08:39:24, Info               RegExpTool   CheckButtonOnAction: Regexp is 
+2021-02-28 08:39:24, Info               RegExpTool   CheckButtonOnAction: Regexp is 
+2021-02-28 08:39:24, Info               RegExpTool   CheckButtonOnAction: Regexp is 
+2021-02-28 08:39:24, Info               RegExpTool   CheckButtonOnAction: Regexp is 
+2021-02-28 08:39:28, Info               RegExpTool   MenuEditSettingsOnAction: Edit Setting file.
+2021-02-28 08:39:32, Info               RegExpTool   MenuEditRegexpHistoryOnAcion: Edit History file.
+2021-02-28 08:39:37, Info               RegExpTool   MenuEditMypattensOnAction: Edit mypatterns file.
+2021-02-28 08:39:57, Info               RegExpTool   CheckButtonOnAction: Regexp is 
+2021-02-28 08:40:08, Info               RegExpTool   SaveSettingButtonOnAction: save setting to file
+2021-02-28 08:40:11, Info               RegExpTool   lambda$start$0: RegexpTool closed.
+2021-02-28 08:40:19, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-02-28 08:40:20, Info               RegExpTool   ApplySetting: ApplySetting
+2021-02-28 08:40:20, Info               RegExpTool   initialize: initialize programe
+2021-02-28 08:40:27, Info               RegExpTool   CheckButtonOnAction: Regexp is 
+2021-02-28 08:40:27, Info               RegExpTool   CheckButtonOnAction: Regexp is 
+2021-02-28 08:40:28, Info               RegExpTool   CheckButtonOnAction: Regexp is 
+2021-02-28 08:40:30, Error               RegExpTool   CheckButtonOnAction: class java.util.regex.PatternSyntaxException Unexpected internal error
+2021-02-28 08:40:31, Info               RegExpTool   CheckButtonOnAction: Regexp is \w
+2021-02-28 08:40:32, Info               RegExpTool   CheckButtonOnAction: Regexp is \w*
+2021-02-28 08:40:33, Info               RegExpTool   CheckButtonOnAction: Regexp is \w*
+2021-02-28 08:40:33, Info               RegExpTool   CheckButtonOnAction: Regexp is \w*
+2021-02-28 08:40:34, Info               RegExpTool   CheckButtonOnAction: Regexp is \w*
+2021-02-28 08:40:34, Info               RegExpTool   CheckButtonOnAction: Regexp is \w*
+2021-02-28 08:40:34, Info               RegExpTool   CheckButtonOnAction: Regexp is \w*
+2021-02-28 08:40:34, Info               RegExpTool   CheckButtonOnAction: Regexp is \w*
+2021-02-28 08:40:34, Info               RegExpTool   CheckButtonOnAction: Regexp is \w*
+2021-02-28 08:40:35, Info               RegExpTool   CheckButtonOnAction: Regexp is \w*
+2021-02-28 08:40:35, Info               RegExpTool   CheckButtonOnAction: Regexp is \w*
+2021-02-28 08:40:35, Info               RegExpTool   CheckButtonOnAction: Regexp is \w*
+2021-02-28 08:40:38, Info               RegExpTool   SaveSettingButtonOnAction: save setting to file
+2021-02-28 08:40:42, Info               RegExpTool   CheckButtonOnAction: Regexp is \w*
+2021-02-28 08:40:42, Info               RegExpTool   CheckButtonOnAction: Regexp is \w*
+2021-02-28 08:40:43, Info               RegExpTool   lambda$start$0: RegexpTool closed.
+2021-02-28 08:40:52, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-02-28 08:40:52, Info               RegExpTool   ApplySetting: ApplySetting
+2021-02-28 08:40:52, Info               RegExpTool   initialize: initialize programe
+2021-02-28 08:40:57, Error               RegExpTool   CheckButtonOnAction: class java.util.regex.PatternSyntaxException Unexpected internal error
+2021-02-28 08:40:58, Info               RegExpTool   CheckButtonOnAction: Regexp is \w
+2021-02-28 08:41:00, Info               RegExpTool   CheckButtonOnAction: Regexp is \w*
+2021-02-28 08:41:01, Info               RegExpTool   CheckButtonOnAction: Regexp is \w*
+2021-02-28 08:41:01, Info               RegExpTool   CheckButtonOnAction: Regexp is \w*
+2021-02-28 08:41:02, Info               RegExpTool   CheckButtonOnAction: Regexp is \w*
+2021-02-28 08:41:02, Info               RegExpTool   CheckButtonOnAction: Regexp is \w*
+2021-02-28 08:41:02, Info               RegExpTool   CheckButtonOnAction: Regexp is \w*
+2021-02-28 08:41:02, Info               RegExpTool   CheckButtonOnAction: Regexp is \w*
+2021-02-28 08:41:03, Info               RegExpTool   CheckButtonOnAction: Regexp is \w*
+2021-02-28 08:41:03, Info               RegExpTool   CheckButtonOnAction: Regexp is \w*
+2021-02-28 08:41:03, Info               RegExpTool   CheckButtonOnAction: Regexp is \w*
+2021-02-28 08:41:03, Info               RegExpTool   CheckButtonOnAction: Regexp is \w*
+2021-02-28 08:41:03, Info               RegExpTool   CheckButtonOnAction: Regexp is \w*
+2021-02-28 08:41:03, Info               RegExpTool   CheckButtonOnAction: Regexp is \w*
+2021-02-28 08:41:04, Info               RegExpTool   CheckButtonOnAction: Regexp is \w*
+2021-02-28 08:41:04, Info               RegExpTool   CheckButtonOnAction: Regexp is \w*
+2021-02-28 08:41:14, Info               RegExpTool   SaveSettingButtonOnAction: save setting to file
+2021-02-28 08:41:18, Info               RegExpTool   SaveSettingButtonOnAction: save setting to file
+2021-02-28 08:41:32, Error               RegExpTool   FromurlButtonOnAction: no protocol: 
+2021-02-28 08:55:18, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-02-28 08:55:18, Info               RegExpTool   ApplySetting: ApplySetting
+2021-02-28 08:55:18, Info               RegExpTool   initialize: initialize programe
+2021-02-28 08:55:21, Info               RegExpTool   lambda$start$0: RegexpTool closed.
+2021-02-28 09:02:24, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-02-28 09:02:24, Info               RegExpTool   ApplySetting: ApplySetting
+2021-02-28 09:02:24, Info               RegExpTool   initialize: initialize programe
+2021-02-28 09:02:27, Info               RegExpTool   lambda$start$0: RegexpTool closed.
+2021-02-28 09:16:22, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-02-28 09:16:22, Info               RegExpTool   ApplySetting: ApplySetting
+2021-02-28 09:16:22, Info               RegExpTool   initialize: initialize programe
+2021-02-28 09:17:26, Info               RegExpTool   lambda$start$0: RegexpTool closed.
+2021-02-28 09:26:12, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-02-28 09:26:12, Info               RegExpTool   ApplySetting: ApplySetting
+2021-02-28 09:26:12, Info               RegExpTool   initialize: initialize programe
+2021-02-28 09:26:16, Info               RegExpTool   lambda$start$0: RegexpTool closed.
+2021-02-28 09:28:40, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-02-28 09:28:40, Info               RegExpTool   ApplySetting: ApplySetting
+2021-02-28 09:28:40, Info               RegExpTool   initialize: initialize programe
+2021-02-28 09:33:34, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-02-28 09:33:34, Info               RegExpTool   ApplySetting: ApplySetting
+2021-02-28 09:33:34, Info               RegExpTool   initialize: initialize programe
+2021-02-28 09:33:58, Info               RegExpTool   lambda$start$0: RegexpTool closed.
+2021-02-28 10:14:56, Info               RegExpTool   initialize: Start RegExp Tool.
+2021-02-28 10:14:57, Info               RegExpTool   ApplySetting: ApplySetting
+2021-02-28 10:14:57, Info               RegExpTool   initialize: initialize programe
+2021-02-28 10:15:43, Info               RegExpTool   lambda$start$0: RegexpTool closed.

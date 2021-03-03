@@ -1,0 +1,11 @@
+/home/sketchdee/Desktop/RegExpTool/exresource/RegTestapplinux/bin/Debug/netcoreapp3.1/RegTestapplinux
+/home/sketchdee/Desktop/RegExpTool/exresource/RegTestapplinux/bin/Debug/netcoreapp3.1/RegTestapplinux.deps.json
+/home/sketchdee/Desktop/RegExpTool/exresource/RegTestapplinux/bin/Debug/netcoreapp3.1/RegTestapplinux.runtimeconfig.json
+/home/sketchdee/Desktop/RegExpTool/exresource/RegTestapplinux/bin/Debug/netcoreapp3.1/RegTestapplinux.runtimeconfig.dev.json
+/home/sketchdee/Desktop/RegExpTool/exresource/RegTestapplinux/bin/Debug/netcoreapp3.1/RegTestapplinux.dll
+/home/sketchdee/Desktop/RegExpTool/exresource/RegTestapplinux/bin/Debug/netcoreapp3.1/RegTestapplinux.pdb
+/home/sketchdee/Desktop/RegExpTool/exresource/RegTestapplinux/obj/Debug/netcoreapp3.1/RegTestapplinux.csprojAssemblyReference.cache
+/home/sketchdee/Desktop/RegExpTool/exresource/RegTestapplinux/obj/Debug/netcoreapp3.1/RegTestapplinux.AssemblyInfoInputs.cache
+/home/sketchdee/Desktop/RegExpTool/exresource/RegTestapplinux/obj/Debug/netcoreapp3.1/RegTestapplinux.AssemblyInfo.cs
+/home/sketchdee/Desktop/RegExpTool/exresource/RegTestapplinux/obj/Debug/netcoreapp3.1/RegTestapplinux.dll
+/home/sketchdee/Desktop/RegExpTool/exresource/RegTestapplinux/obj/Debug/netcoreapp3.1/RegTestapplinux.pdb
