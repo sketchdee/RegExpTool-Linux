@@ -26,4 +26,4 @@ linux@usename:~$ ./regexptool.sh
 
 ## The address of the packaged JAR package
 It need JAVAFX/lib and additional Java parameters  to run.
-(RegExpTool.jar)[https://github.com/sketchdee/RegExpTool-Linux/blob/main/RegExpTool.jar]
+(RegExpTool.jar)[https://raw.githubusercontent.com/sketchdee/RegExpTool-Linux/main/RegExpTool.jar]
