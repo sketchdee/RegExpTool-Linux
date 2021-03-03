@@ -8,13 +8,13 @@ Regular expression testing tool, the use of Java development, convenient multi-p
 #### (1) Get JAVAFX
 You can get the open javafx at [https://gluonhq.com/products/javafx/](https://gluonhq.com/products/javafx/)
 or Chiese site at [https://openjfx.cn/dl/](https://openjfx.cn/dl/).
-You will need to download the JavaFX version of your computer,such as JavaFX Windows SDK ,JavaFX Linux SDK,JavaFX Mac OS X SDK.
+You need to download the corresponding JAVAFX version for your computerr,such as JavaFX Windows SDK ,JavaFX Linux SDK,JavaFX Mac OS X SDK.
 #### (2) Unzip the package and add the lib folder to the PATH or IDE path.
 IDEA：File -> Project Structure -> Libraries -> + -> "find javafx-sdk-xx.x.x\lib and add."
 ### 2.Add running variables.
 #### (1) copy JAVAFX absolute path
-#### (2) Add IDEA VM option. Run -> Edit Configurations -> add build and run options(near the jre version select palce). important!
---module-path "#####javafx path(you need replace it.)" --add-modules javafx.controls,javafx.fxml,javafx.base,javafx.graphics,javafx.web,javafx.media -Dfile.encoding=UTF-8
+#### (2) Add IDEA VM option. Run -> Edit Configurations -> add build and run options(near the jre version select place). important!
+--module-path "javafx path(you need replace it.)" --add-modules javafx.controls,javafx.fxml,javafx.base,javafx.graphics,javafx.web,javafx.media -Dfile.encoding=UTF-8
 ### 3.Run RegExpTool.main
 ### 4.Use shell to run jar. regexptool.sh
 Befor use the run the script ,you should change the JAVAFX path in the shell script.
