@@ -26,7 +26,10 @@ linux@usename:~$ ./regexptool.sh
 
 ## How to run.
 It use console to run script and get Python3 and C# results.you should install python3 and dotnet framwork to get full function.
-
-## The address of the packaged JAR package
+### (1) Change the JAVAFX absolute path of "regexptool.sh". 
+You can get the open javafx at [https://gluonhq.com/products/javafx/](https://gluonhq.com/products/javafx/)
+### (2) Run "regexptool.sh" in console
+Don't copy the command to shell directly,you need change to program root befor it.
+## The address of the full package
 It need JAVAFX/lib and additional Java parameters  to run.
-[RegExpTool-Linux/main/RegExpTool.jar](https://raw.githubusercontent.com/sketchdee/RegExpTool-Linux/main/RegExpTool.jar)
+[RegExpTool For Linux .zip file.](https://codeload.github.com/sketchdee/RegExpTool-Linux/zip/main)
