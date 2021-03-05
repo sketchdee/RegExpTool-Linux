@@ -24,6 +24,9 @@ linux@usename:~$ chmod 777 regexptool.sh
 linux@usename:~$ ./regexptool.sh
 ```
 
+## How to run.
+It use console to run script and get Python3 and C# results.you should install python3 and dotnet framwork to get full function.
+
 ## The address of the packaged JAR package
 It need JAVAFX/lib and additional Java parameters  to run.
-(RegExpTool.jar)[https://raw.githubusercontent.com/sketchdee/RegExpTool-Linux/main/RegExpTool.jar]
+[RegExpTool-Linux/main/RegExpTool.jar](https://raw.githubusercontent.com/sketchdee/RegExpTool-Linux/main/RegExpTool.jar)
